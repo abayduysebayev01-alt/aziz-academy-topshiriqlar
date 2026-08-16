@@ -1,3 +1,3 @@
-# Kodingizni shu yerga yozing
-goshtyogkalla = input()
-print(goshtyogkalla.split(','))
+# Kodingizni shu yerga yoz
+abc = input()
+print(abc.split(','))
